@@ -78,29 +78,29 @@ This analysis reveals how key performance metrics relate to each other. The corr
 
 ### Key Takeaway
 
-- ** Transactions vs Revenue → 0.79**
+- **Transactions vs Revenue → 0.79**
   - Strongest correlation.
   - Suggests that **more transactions** are a **direct driver of revenue**.
   - Focus on increasing completed purchases to boost revenue.
 
-- ** Transactions vs Conversion Rate → 0.71**
+- **Transactions vs Conversion Rate → 0.71**
   - High correlation.
   - Indicates that **stores or SKUs with higher conversion rates** tend to have **more transactions**.
 
-- ** Revenue vs Conversion Rate → 0.57**
+- **Revenue vs Conversion Rate → 0.57**
   - Moderate correlation.
   - Implies that improving **conversion efficiency** helps lift **revenue**, even without increasing traffic.
 
-- ** Total Visits vs Transactions → 0.62**
+- **Total Visits vs Transactions → 0.62**
   - Reasonable positive correlation.
   - More footfall does contribute to more transactions, but not always directly.
 
-- ** Total Visits vs Revenue → 0.47**
+- **Total Visits vs Revenue → 0.47**
   - Moderate correlation.
   - Shows that **higher store traffic alone does not guarantee higher revenue**.
   - Reinforces the importance of **conversion** and **average transaction value**.
 
-- ** Total Visits vs Conversion Rate → 0.02**
+- **Total Visits vs Conversion Rate → 0.02**
   - Almost no correlation.
   - High traffic doesn’t necessarily mean better conversion.
   - Indicates **store experience, product relevance, or pricing** play a bigger role in conversion than just volume.
