@@ -22,7 +22,7 @@
 
 ---
 
-### 📈 Cross-Cutting Trends
+###  Cross-Cutting Trends
 
 - **High revenue ≠ High conversion** — some SKUs generate strong revenue with low conversions, likely due to high price points (low volume, high value).
 - **High store traffic doesn’t guarantee high performance** — many high-traffic stores underperform, revealing **optimization gaps** in UX, inventory, or local relevance.
