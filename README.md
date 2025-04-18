@@ -1,8 +1,8 @@
-# 📄 Conversion & Revenue Analysis Summary
+# Conversion & Revenue Analysis Summary
 
-## 🔍 Key Findings
+##  Key Findings
 
-### 🏬 Store Performance
+###  Store Performance
 
 - **Store_39** is the top performer with a **66.47% conversion rate** and **₹72.48 revenue per visit**, indicating highly effective monetization despite low footfall.
 - **Store_49** and **Store_44** also maintain strong conversion rates **(>63%)** with excellent revenue-to-transaction ratios.
@@ -13,7 +13,7 @@
 
 ---
 
-### 📦 SKU Performance
+###  SKU Performance
 
 - **SKU_7** and **SKU_11** shine across all metrics — **high total revenue**, **high revenue per visit**, and **conversion rates above 54%**. These are your **hero SKUs**.
 - **SKU_14** generates high revenue with **very low traffic**, making it an **underrated high-efficiency SKU** that could perform even better with more visibility.
@@ -29,9 +29,9 @@
 
 ---
 
-## ✅ Recommendations
+## Recommendations
 
-### 🔝 Double Down on High Performers
+### Double Down on High Performers
 
 - **Scale Store_28, Store_33, Store_49** — these are highly efficient, high-revenue stores that can serve as blueprints for success.
 - **Promote SKU_7 and SKU_11** through strategic campaigns and bundling to maximize ROI.
@@ -39,7 +39,7 @@
 
 ---
 
-### 🚧 Fix Underperformers Strategically
+### Fix Underperformers Strategically
 
 - **Audit Store_15, Store_9, Store_12, Store_17** for product assortment, UX, and layout issues to address low conversion and revenue.
 - **Investigate SKU_5’s low revenue** despite high traffic — check product pricing, display, and checkout experience.
@@ -47,7 +47,7 @@
 
 ---
 
-### 🎯 Strategic Optimizations
+### Strategic Optimizations
 
 - For SKUs with **high conversions but low revenue**, implement **bundling and upselling**.
 - For SKUs with **high revenue but low conversion**, consider **price optimization** or **user education via content**.
@@ -55,15 +55,15 @@
 
 ---
 
-## 🔍 SKU-wise Conversion Analysis Across Stores
+## SKU-wise Conversion Analysis Across Stores
 
 This section explores **how each SKU converts across different stores**.  
 For each SKU, we plot its **Conversion Rate** per store to identify:
 
-- ✅ Which stores are performing best for that specific SKU.
-- ⚠️ Where the SKU is underperforming despite presence.
+- Which stores are performing best for that specific SKU.
+- Where the SKU is underperforming despite presence.
 
-### 📈 Key Points:
+###  Key Points:
 
 - Some SKUs may perform **exceptionally well in certain regions**, hinting at **store-level strengths** (e.g., local demand, staff expertise, display quality).
 - Underperforming combinations could indicate **mismatch of product-market fit** at specific locations.
@@ -72,42 +72,42 @@ For each SKU, we plot its **Conversion Rate** per store to identify:
 
 ---
 
-## 🔍 Correlation Insights: Visits, Transactions, Revenue & Conversion Rate
+##  Correlation Insights: Visits, Transactions, Revenue & Conversion Rate
 
 This analysis reveals how key performance metrics relate to each other. The correlation values range from **-1 (strong negative)** to **+1 (strong positive)**.
 
-### 📌 Key Takeaways
+### Key Takeaway
 
-- **🛒 Transactions vs Revenue → 0.79**
+- ** Transactions vs Revenue → 0.79**
   - Strongest correlation.
   - Suggests that **more transactions** are a **direct driver of revenue**.
   - Focus on increasing completed purchases to boost revenue.
 
-- **🛒 Transactions vs Conversion Rate → 0.71**
+- ** Transactions vs Conversion Rate → 0.71**
   - High correlation.
   - Indicates that **stores or SKUs with higher conversion rates** tend to have **more transactions**.
 
-- **💰 Revenue vs Conversion Rate → 0.57**
+- ** Revenue vs Conversion Rate → 0.57**
   - Moderate correlation.
   - Implies that improving **conversion efficiency** helps lift **revenue**, even without increasing traffic.
 
-- **👣 Total Visits vs Transactions → 0.62**
+- ** Total Visits vs Transactions → 0.62**
   - Reasonable positive correlation.
   - More footfall does contribute to more transactions, but not always directly.
 
-- **👣 Total Visits vs Revenue → 0.47**
+- ** Total Visits vs Revenue → 0.47**
   - Moderate correlation.
   - Shows that **higher store traffic alone does not guarantee higher revenue**.
   - Reinforces the importance of **conversion** and **average transaction value**.
 
-- **👣 Total Visits vs Conversion Rate → 0.02**
+- ** Total Visits vs Conversion Rate → 0.02**
   - Almost no correlation.
   - High traffic doesn’t necessarily mean better conversion.
   - Indicates **store experience, product relevance, or pricing** play a bigger role in conversion than just volume.
 
 ---
 
-### 🎯 Strategic Implications
+###  Strategic Implications
 
 - Focus on **improving conversion rates** to increase both **transactions and revenue**.
 - **Driving traffic alone is not enough** — optimize product placement, UX, and pricing to convert visits into sales.
@@ -115,7 +115,7 @@ This analysis reveals how key performance metrics relate to each other. The corr
 
 ---
 
-## 📌 Bottom Line
+##  Conclusion
 
 Success doesn’t come from traffic alone — it's the **quality of engagement, relevance of products, and conversion efficiency** that drive business results.  
 By **scaling high performers, fixing conversion gaps, and aligning pricing with customer intent**, growth can be accelerated sustainably across stores and SKUs.
