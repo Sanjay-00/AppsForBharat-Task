@@ -9,13 +9,13 @@
 - **Store_28**, **Store_33**, and **Store_6** appear in the **top 10 both for total revenue and revenue per visit**, making them high-priority stores for investment and replication.
 - **Store_15** has the **lowest conversion rate (34.63%)**, while **Store_14** and **Store_36** also fall below 38%, signaling poor conversion of traffic into sales.
 - **Store_14** has **high visits but low revenue**, suggesting inefficiencies in layout, UX, or product mix.
-- **Store_39**, despite having low traffic, achieves high revenue and conversion — indicating that **visitor quality and pricing strategy matter more than volume alone**.
+- **Store_39**, despite having low traffic, achieves high revenue and conversion - indicating that **visitor quality and pricing strategy matter more than volume alone**.
 
 ---
 
 ###  SKU Performance
 
-- **SKU_7** and **SKU_11** shine across all metrics — **high total revenue**, **high revenue per visit**, and **conversion rates above 54%**. These are your **hero SKUs**.
+- **SKU_7** and **SKU_11** shine across all metrics - **high total revenue**, **high revenue per visit**, and **conversion rates above 54%**. These are your **hero SKUs**.
 - **SKU_14** generates high revenue with **very low traffic**, making it an **underrated high-efficiency SKU** that could perform even better with more visibility.
 - **SKU_5** draws the **second-highest number of visits** but ranks in the **bottom tier for total revenue**, implying a broken conversion funnel or poor value proposition.
 - **SKU_19** and **SKU_20** rank in the **bottom 10 for both revenue and efficiency**, marking them as potential candidates for **repackaging, repositioning, or phasing out**.
@@ -24,8 +24,8 @@
 
 ###  Cross-Cutting Trends
 
-- **High revenue ≠ High conversion** — some SKUs generate strong revenue with low conversions, likely due to high price points (low volume, high value).
-- **High store traffic doesn’t guarantee high performance** — many high-traffic stores underperform, revealing **optimization gaps** in UX, inventory, or local relevance.
+- **High revenue ≠ High conversion** - some SKUs generate strong revenue with low conversions, likely due to high price points (low volume, high value).
+- **High store traffic doesn’t guarantee high performance** - many high-traffic stores underperform, revealing **optimization gaps** in UX, inventory, or local relevance.
 
 ---
 
@@ -33,7 +33,7 @@
 
 ### Double Down on High Performers
 
-- **Scale Store_28, Store_33, Store_49** — these are highly efficient, high-revenue stores that can serve as blueprints for success.
+- **Scale Store_28, Store_33, Store_49** - these are highly efficient, high-revenue stores that can serve as blueprints for success.
 - **Promote SKU_7 and SKU_11** through strategic campaigns and bundling to maximize ROI.
 - **Increase visibility of SKU_14** to unlock more value from an already efficient product.
 
@@ -42,8 +42,8 @@
 ### Fix Underperformers Strategically
 
 - **Audit Store_15, Store_9, Store_12, Store_17** for product assortment, UX, and layout issues to address low conversion and revenue.
-- **Investigate SKU_5’s low revenue** despite high traffic — check product pricing, display, and checkout experience.
-- **Re-evaluate SKU_19 and SKU_20** — consider removing or relaunching with a new angle.
+- **Investigate SKU_5’s low revenue** despite high traffic - check product pricing, display, and checkout experience.
+- **Re-evaluate SKU_19 and SKU_20** - consider removing or relaunching with a new angle.
 
 ---
 
@@ -110,12 +110,12 @@ This analysis reveals how key performance metrics relate to each other. The corr
 ###  Strategic Implications
 
 - Focus on **improving conversion rates** to increase both **transactions and revenue**.
-- **Driving traffic alone is not enough** — optimize product placement, UX, and pricing to convert visits into sales.
+- **Driving traffic alone is not enough** - optimize product placement, UX, and pricing to convert visits into sales.
 - Use high-performing stores/SKUs as **benchmarks** to uplift underperformers.
 
 ---
 
 ##  Conclusion
 
-Success doesn’t come from traffic alone — it's the **quality of engagement, relevance of products, and conversion efficiency** that drive business results.  
+Success doesn’t come from traffic alone - it's the **quality of engagement, relevance of products, and conversion efficiency** that drive business results.  
 By **scaling high performers, fixing conversion gaps, and aligning pricing with customer intent**, growth can be accelerated sustainably across stores and SKUs.
